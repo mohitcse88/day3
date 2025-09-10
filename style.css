@@ -1,0 +1,14 @@
+h1 {
+    background-color: rgb(194, 144, 144);
+    padding: 12px;
+    border-radius: 12px;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: green;
+    margin-left: 200px;
+}
+
